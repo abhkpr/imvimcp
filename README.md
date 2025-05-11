@@ -20,7 +20,7 @@ A minimalist, performance-focused Vim configuration designed specifically for co
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/abhkpr/imvimcp.git
 
 # 2. Copy the .vimrc to your home directory
 cp your-repo-name/.vimrc ~/.vimrc
