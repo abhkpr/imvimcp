@@ -23,7 +23,7 @@ A minimalist, performance-focused Vim configuration designed specifically for co
 git clone https://github.com/abhkpr/imvimcp.git
 
 # 2. Copy the .vimrc to your home directory
-cp your-repo-name/.vimrc ~/.vimrc
+cp imvimcp/.vimrc ~/.vimrc
 
 # 3. Install vim-plug (if not already installed)
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
